@@ -1,4 +1,4 @@
-# AI-Driven Patient Classification for Efficient Specialist Referral System
+# AI-Driven Patient Classification for an Efficient Specialist Referral System using Blood Test Results
 
 This project aims to build an AI-based system that classifies patients based on routine blood test results and recommends appropriate medical specialists for referral. The goal is to support quicker, data-driven triage and improve patient outcomes in line with Sustainable Development Goal 3 (Good Health and Well-being).
 
